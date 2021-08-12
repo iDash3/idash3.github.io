@@ -1,6 +1,6 @@
-I've seen, for quite a while now, this idea on the internet that making apps is an exceptionally difficult task. Videos such as the "Apps: Everything You Didn't Know You Needed to Know" series make it look as if developing an app was an extraordinary mission, but it really isn't, it is in fact quite easy__*__, and I'm here to prove it.
+I've seen, for quite a while now, this idea on the internet that making apps is an exceptionally difficult task. Videos such as the "Apps: Everything You Didn't Know You Needed to Know" series make it look as if developing an app was an extraordinary mission, but it really isn't, it is in fact quite easy __*__ , and I'm here to prove it.
 
-__*__Making a huge, really succesfull app that serves millions of users every day may be a titanic task, but I'm talking here about a not-that-complex, well done, useful app. Esentially, far from a calculator but not even close to a Twitter.
+__*__ Making a huge, really succesfull app that serves millions of users every day may be a titanic task, but I'm talking here about a not-that-complex, well done, useful app. Esentially, far from a calculator but not even close to a Twitter.
 
 ## Get an idea
 
