@@ -24,11 +24,10 @@ My Apps's 3 absolutely necessary parts:
 Literally just draw how this will be displayed on the app:
 
 ![paper-1](/assets/img/apps-are-easy/paper-1.jpeg)
-![paper-11](/code-1.jpeg)
 
 Then just think ok, what other screens do I need? For example, I probably need a Log In Page, a Register Page and so on. Check your apps on your phone for inspiration. Draw them as well:
 
-![paper-2](../assets/img/apps-are-easy/paper-2.jpeg)
+![paper-2](/assets/img/apps-are-easy/paper-2.jpeg)
 
 Cool, you've now got a decent enough wireframe. You can go as far as you want, but usually it's not worth it, just focus on the really important parts.
 
@@ -44,7 +43,7 @@ You really don't need a super expensive designer to make something look decent. 
 
 Look at mine:
 
-![design](../assets/img/apps-are-easy/design-1.jpg)
+![design](/assets/img/apps-are-easy/design-1.jpg)
 
 They're literally, by order, a red circle, some nice looking text (Poppins font), a random figure I did with the pen (you can ignore it, it's not that important), a free illustration and finally text inside some rectangles, except this time the corners are smooth. Rectangles with sprinkled circles and some text on top, real easy.
 
@@ -54,7 +53,7 @@ Design the MUSTs you defined and inked on the step before.
 
 Here are mine (3 simple screens):
 
-![design-2](../assets/img/apps-are-easy/design-2.jpg)
+![design-2](/assets/img/apps-are-easy/design-2.jpg)
 
 If you don't know where to get the icons or anything else, just google them.
 
@@ -91,8 +90,8 @@ For the backend, if you know nothing, simply learn a pre made backend. I believe
 
 Here are some screenshots from my app:
 
-![codeSS-1](../assets/img/apps-are-easy/code-1.jpeg)
-![codeSS-2](../assets/img/apps-are-easy/code-2.jpeg)
-![codeSS-3](../assets/img/apps-are-easy/code-3.jpeg)
+![codeSS-1](/assets/img/apps-are-easy/code-1.jpeg)
+![codeSS-2](/assets/img/apps-are-easy/code-2.jpeg)
+![codeSS-3](/assets/img/apps-are-easy/code-3.jpeg)
 
 **This is the end of the first part, as shown, building an app is definitely not a hard task, it just takes time as mostly everything in life**
