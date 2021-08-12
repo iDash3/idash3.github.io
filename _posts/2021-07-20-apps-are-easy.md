@@ -1,25 +1,25 @@
-I've seen, for quite a while now, this idea on the internet that making apps is an exceptionally difficult task. Videos such as the "Apps: Everything You Didn't Know You Needed to Know" series make it look as if developing an app was an extraordinary mission, but it really isn't, it is in fact quite easy*, and I'm here to prove it.
+I've seen, for quite a while now, this idea on the internet that making apps is an exceptionally difficult task. Videos such as the "Apps: Everything You Didn't Know You Needed to Know" series make it look as if developing an app was an extraordinary mission, but it really isn't, it is in fact quite easy__*__, and I'm here to prove it.
 
-*Making a huge, really succesfull app that serves millions of users every day may be a titanic task, but I'm talking here about a not-that-complex, well done, useful app. Esentially, far from a calculator but not even close to a Twitter.
+__*__Making a huge, really succesfull app that serves millions of users every day may be a titanic task, but I'm talking here about a not-that-complex, well done, useful app. Esentially, far from a calculator but not even close to a Twitter.
 
 ## Get an idea
 
-Really important part. Normally you wanna fix a problem or create one that makes a ton of cash.
+Really important part. Usually you wanna fix a problem or create one that makes a ton of cash.
 
-My idea: Help international students, such as myself, to visit the other student from my college that are also abroad and arrange trips together.
+My idea: Help international students, such as myself, to visit the other students from my college that are abroad as well and arrange trips together.
 
 Get your own, it can be whatever.
 
 ## Make a mock up of the idea
 
-Literally just dream about what this idea could be, stretch, contract as much as you want, no one is watching go crazy.
+Literally just dream about what this idea could be, stretch it, contract it as much as you want, no one is watching.
 After you've dreamt a bit about what this idea could be turned into, now select the ABSOLUTELY necessary parts to make it work.
 I generally do 3. This procedure probably has a fancy technical name, but that doesn't matter, make it simple. Just think if your app was a building, which features would be the pillars. You need good pillars.
 
 My Apps's 3 absolutely necessary parts: 
 - Make a map that shows the people
 - Make a multi person trip organizer (so that if some people want to visit a country others can join them) 
-- Make a simple contact system with all the necessary information (iif you have an apartment maybe you could host someone on the couch) 
+- Make a simple contact system with all the necessary information (if you have an apartment maybe you could host someone on the couch) 
 
 Literally just draw how this will be displayed on the app:
 
@@ -33,11 +33,15 @@ Cool, you've now got a decent enough wireframe. You can go as far as you want, b
 
 ## Design the thing
 
-You've got your central ideas, the MUSTs, you've got an OK wireframe, now just design the thing. You might be asking yourself "ok, how? I know nothing about design" Doesn't matter, do you know rectangles? Do you have more than 1 app installed on your phone? If you do, you're good to go.
+You've got your central ideas, the MUSTs, you've got an OK wireframe, now just design the thing. 
 
-For this we need software, install Adobe XD if you can (it's free if you're in university, or at least at mine) and if you can't, that's fine, guess what? Someone took 7 years out of their life to code Photoshop on the web for free. Yeah. [Photopea](https://www.photopea.com). Also, Figma is basically Adobe XD but better? [Figma](https://www.figma.com)
+You might be asking yourself "ok, how? I know nothing about design" Doesn't matter, do you know rectangles? Do you have more than 1 app installed on your phone? If you do, you're good to go.
 
-Ok, if know nothing about Photoshop or Adobe XD just go on Youtube for half an hour. Here's a quick User Interface breakdown: Everything is a rectangle. Just use that over and over again, maybe sprinkle a circle somewhere around.
+For this we need software, install Adobe XD if you can (it's free if you're in university) and if you can't, that's fine, guess what? Someone took 7 years out of their life to code Photoshop on the web for free. Yeah. [Photopea](https://www.photopea.com). Also, Figma is basically Adobe XD but better? [Figma](https://www.figma.com)
+
+If you know nothing about Adobe XD go on Youtube for a while, there are tons of really good tutorials.
+
+Here's a quick User Interface breakdown: Everything is a rectangle. Just use that over and over again, maybe sprinkle a circle somewhere around.
 
 You really don't need a super expensive designer to make something look decent. Google some free use illustrations to use as placeholders (or keep them, who cares, as long as they're free) and just square things up.
 
@@ -45,9 +49,9 @@ Look at mine:
 
 ![design](/assets/img/apps-are-easy/design-1.jpg)
 
-They're literally, by order, a red circle, some nice looking text (Poppins font), a random figure I did with the pen (you can ignore it, it's not that important), a free illustration and finally text inside some rectangles, except this time the corners are smooth. Rectangles with sprinkled circles and some text on top, real easy.
+They're literally, by order, a red circle with the word "logo", some nice looking text (Poppins font), a random figure I did with the pen as background (you can ignore it, it's not that important), a free illustration I found and finally some text inside rectangles, except this time the corners are smooth. Rectangles with sprinkled circles and some text on top, real easy.
 
-If you need any inspiration just google it or look at the apps on your phone. 
+If you need any inspiration just google some deisgn ideas or look at the apps on your phone. 
 
 Design the MUSTs you defined and inked on the step before.
 
@@ -55,36 +59,36 @@ Here are mine (3 simple screens):
 
 ![design-2](/assets/img/apps-are-easy/design-2.jpg)
 
-If you don't know where to get the icons or anything else, just google them.
+If you don't know where to get the icons or anything else, simply google them.
 
 ### Reflection on time
 
-I thought really hard about the app for maybe half a week, designed it in an afternoon and wrote this on the night. This is not a poor man's diss on app-makers, I'm simply stating that this process is really not that hard once you know what I've detailed before (creativity and a bit of deisgn). Note that every single step COULD take a veeery long time, but we don't concern ourselves with that. I am not a designer, I make the app look decent and move on. 
+I thought really hard about the app for maybe half a week, designed it in an afternoon and wrote this on the night. What I'm trying to say is that this process is really not that hard once you know what I've detailed before (creativity and a bit of deisgn). Note that every single step COULD take a veeery long time, but we don't concern ourselves with that. I am not a designer, I make the app look decent and move on. 
 
 Most projects are sacrificed on the name of perfeccionism, so don't bother with it a lot. Of course make it as well as you can, but a super simplified running app is 69 times better than a perfectly thought out never to be realized app.
 
 Don't get stuck making a super optimized design for an app that doesn't exist.
 
-## Code it up (fronted)
+## Code it up 
 
-Now this is the "hard" part, if you know nothing about apps then you better have some available hours to learn this stuff up, but I assure you, it's really not that hard.
+Now this is the "hard" part, if you know nothing about apps then you better have some available hours to learn this stuff up, but I assure you, it's really not that difficult.
 
 Here's quick rundown: 
-- You can make either an Android app or an iOS app. Either will make you lose half the market, so the correct answer most likely is to choose both. What? Yeah, you can code once and run them both. It has its disadvantages, but honestly who cares.
+- You can make either an Android app or an iOS app. Either will make you lose half the market, so the correct answer most likely is to choose both. What? Yeah, you can code once and run them both. It has its disadvantages, but it's not that bad, especially if you're just starting.
 - Now you have to choose between Flutter, React Native and the thousand other libraries. My advice? Just learn React, its painfully simple, it will take you a couple weeks max (from knowing absolutely nothing) and afterwards you'll be able to make web pages and other fun stuff as well.
 
-Ok, this is basically how an app work:
+Ok, this is basically how an app works:
 - Frontend -> What the user looks at, all the pretty stuff -> Learn HTML, CSS, JS and React (should take a week each at most)
 - Backend -> What the user doesn't look at, the "database" -> Since you already know JS from above, learn ExpressJS (maybe a week as well) OR if you're too cool for it, just don't learn anything and use a premade backend such as Firebase (a couple of days to learn, I swear).
 
-So if you really wanted, from knowing absolutely nothing, you could learn everything in a solid month. That's nothing.
+So if you really wanted, from knowing absolutely nothing, you could learn everything in a solid month. That's really good.
 
 For frontend there are a ton of tutorials on Youtube. I've taken a couple (e.g. Code With Mosh). If that's not your thing just read the docs, copy paste code and stare at it until you know what it does (copy pasting is great as long as you know what you're looking at).
 
 This is the hardest part, but honestly HTML and CSS are so easy and tedious it makes a man want to lock himself up in the oven to reheat the brain.
 JS is comparatively harder, but not by a lot. And React is (literally) just HTML + JS, so basically nothing new, I know people that learn it in hours.
 
-Now, getting decent at any of those is relatively complicated, knowing the "best pratices" takes time and is mostly annoying. But hey, you can build your first app with the worst code ever, learn from it and keep going. It really doesn't matter as long as you go on learning, I built my first app some 4 years ago and now I'm able to code them up in an afternoon (not quite a personal achievement, it's mostly battling pixels, literally copying your design to code).
+Now, getting decent at any of those is relatively complicated, knowing the "best pratices" takes time and is mostly practice over pratice. But hey, you can build your first app with the worst code ever, learn from it and keep going. It really doesn't matter as long as you go on learning, for example, I built my first app some 4 years ago in probably the worst way I could , it was really bad, and now I'm able to code them up decently in an afternoon (it's mostly battling pixels, copying your design to code, so once you get the hang of it you're set).
 
 For the backend, if you know nothing, simply learn a pre made backend. I believe it is better to build your own (I use Django), but then again there is no reason to make it harder for yourself. Use a pre made backend, learn from it, and eventually get to learning a custom one. This ain't school, you don't have to learn every single subject to build something good.
 
