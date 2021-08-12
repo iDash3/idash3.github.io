@@ -23,8 +23,8 @@ My Apps's 3 absolutely necessary parts:
 
 Literally just draw how this will be displayed on the app:
 
-![paper-1](../assets/img/apps-are-easy/paper-1.jpeg)
-![image-title-here](..\assets\img\apps-are-easy\code-1.jpeg){:class="img-responsive"}
+![paper-1](/assets/img/apps-are-easy/paper-1.jpeg)
+![paper-11](/code-1.jpeg)
 
 Then just think ok, what other screens do I need? For example, I probably need a Log In Page, a Register Page and so on. Check your apps on your phone for inspiration. Draw them as well:
 
