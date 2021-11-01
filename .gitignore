@@ -20,3 +20,6 @@ Gemfile.lock
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Posts that are not finished
+_posts/2021-08-12-proof-of-work.md
