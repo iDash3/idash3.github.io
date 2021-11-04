@@ -1,6 +1,6 @@
-I've seen, for quite a while now, this idea on the internet that making apps is an exceptionally difficult task. Videos such as the "Apps: Everything You Didn't Know You Needed to Know" series make it look as if developing an app was an extraordinary mission, but it really isn't, it is in fact quite easy __*__ , and I'm here to prove it.
+I've seen, for quite a while now, this idea on the internet that making apps is an exceptionally difficult task. Videos such as "Apps: Everything You Didn't Know You Needed to Know" make it look as if developing an app was an extraordinary mission, but it really isn't, it is in fact quite easy __*__ , and I'm here to prove it.
 
-__*__ Making a huge, really succesfull app that serves millions of users every day may be a titanic task, but I'm talking here about a not-that-complex, well done, useful app. Esentially, far from a calculator but not even close to a Twitter.
+__*__ Making a really succesfull app that serves millions of users every day may really be a titanic task, but I'm talking here about a not-that-complex, useful app. Esentially, far from a calculator but not even close to a Twitter.
 
 ## Get an idea
 
@@ -13,15 +13,15 @@ Get your own, it can be whatever.
 ## Mock up the idea
 
 Literally just dream about what this idea could be, stretch it and contract it as much as you want, no one is watching.
-After you've dreamt a bit about what this idea could be turned into, select the ABSOLUTELY necessary parts to make it work.
+After you've dreamt a bit about what this idea could be, select the ABSOLUTELY necessary parts to make it work.
 I generally do 3. This procedure probably has a fancy technical name, but that doesn't matter, make it simple. Just think if your app was a building, which features would be the pillars. You need good pillars.
 
-My Apps's 3 absolutely necessary parts: 
+My Apps' 3 absolutely necessary parts: 
 - Make a map that shows the people
 - Make a multi person trip organizer (so that if some people want to visit a country others can join them) 
 - Make a simple contact system with all the necessary information (if you have an apartment maybe you could host someone on the couch) 
 
-Literally just draw how this will be displayed on the app:
+Now just draw how this would be displayed on the app:
 
 ![paper-1](/assets/img/apps-are-easy/paper-1.jpeg)
 
@@ -29,17 +29,21 @@ Then just think ok, what other screens do I need? For example, I probably need a
 
 ![paper-2](/assets/img/apps-are-easy/paper-2.jpeg)
 
-Cool, you've now got a decent enough wireframe. You can make it as complex as you want, but usually it's not worth it, just focus on the really important parts.
+Nice, you've now got a decent wireframe. You can make it as complex as you want, but usually it's not worth it, just focus on the really, really important parts and get to work.
 
 ## Design the idea
 
-You've got your plan, the MUSTs, you've got an OK wireframe, now just design the thing. 
+You've got 
+- your plan, 
+- the MUSTs, 
+- an OK wireframe, 
+now its time to design the thing. 
 
 You might be asking yourself "ok, how? I know nothing about design" Doesn't matter, do you know rectangles? Do you have more than 1 app installed on your phone? If you do, you're good to go.
 
-To accomplish this task we need software, install Adobe XD if you can (it's free if you're in university), if you can't, that's fine, guess what? Someone took 7 years out of their life to code Photoshop on the web for free. Yeah. [Photopea](https://www.photopea.com). Also, Figma is basically Adobe XD but better? [Figma](https://www.figma.com)
+Now we need software, install Adobe XD if you can (it's free if you're in university), if you can't, that's fine, guess what? Someone took 7 years out of their life to code Photoshop on the web for free. Yeah. [Photopea](https://www.photopea.com). Also, Figma is basically Adobe XD but better? [Figma](https://www.figma.com)
 
-If you know nothing about Adobe XD go on Youtube for a while, there are tons of really good tutorials.
+— If you know nothing about Adobe XD go on Youtube for a while, there are tons of really good tutorials, it's very intuitive. —
 
 Here's a quick User Interface breakdown: Everything is a rectangle. Just use that over and over again, maybe sprinkle a circle somewhere around.
 
