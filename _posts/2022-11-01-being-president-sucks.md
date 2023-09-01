@@ -19,6 +19,6 @@ And then again, even using the money for useful things, you still hit the time b
 
 Now you get to the obvious answer: dictatorship! But that, even with the absolute best intentions, goes against basically everything modern universal morality has built (plus you get killed by a superpower).
 
-In conclusion, even without going to specific details on campaign running, the headache of dealing with local leaders and assuming you win absolutely everything and not lose your time, well, losing, being president is an incredibly poorly effort/time inefficient way of making a significant impact.
+In conclusion, even without going to specific details on campaign running, the headache of dealing with local leaders and assuming you win absolutely everything and not lose your time, well, losing, being president is an incredibly poorly inefficient effort/time way of making a significant impact.
 
-It seems like the examples of people waging politics as a trascendental force (measured in terms of impact, for better of worse; Hitler, Diaz, Mandela, Ataturk, Putin, etc) are more a consequence of their times rather than an effective example of political power.
+It seems like the examples of people waging politics as a trascendental force (measured in terms of impact, for better of worse; Hitler, Diaz, Mandela, Ataturk, Putin, etc) are more a consequence of their times rather than an effective example of political power. If one is trying to be effcient on spreading 'goodness', the private sector is the best way to go around it. Forget ruling the world, build it! 
