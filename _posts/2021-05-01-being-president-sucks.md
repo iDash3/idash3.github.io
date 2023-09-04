@@ -18,7 +18,7 @@ Now, even after winning, you have to think what you get to manage: Mexicans' mon
 
 And then again, even using the money for useful things, you still hit the time barrier of 6 years, after which you are done and have to leave everything on the fate of whoever comes next. 
 
-Given these constraints, some might consider more drastic measures. An incorrect answer bubbles up to the surface: dictatorship! But that, even with the absolute best intentions, goes against basically everything modern universal morality has built (plus you get killed by a superpower). The blocks laid out by democracy - stable transfer of power, division of power, voicing the people - have proven time and time again to be the right ones for an stable society.
+Given these constraints, some might consider more drastic measures. An incorrect answer bubbles up to the surface: dictatorship! But that, even with the absolute best intentions, goes against basically everything modern universal morality has built (plus you get killed by a superpower). The blocks laid out by democracy - stable transfer and division of power, voicing the people - have proven time and time again to be the right ones for an stable society.
 
 In conclusion, even without going to specific details on campaign running, the headache of dealing with local leaders and assuming you win absolutely everything and not lose your time, well, losing, being president is an incredibly poorly inefficient effort/time way of making a significant impact.
 
