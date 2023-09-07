@@ -20,6 +20,8 @@ This is when my quest for a full circle tequila started.
 
 ## The Idea
 
+<img src="/assets/img/tequila-clothes/logo2.png" alt="kiote-logo" width="300" style="align-self: center" />
+
 Turn tequila industry trash into incredible, sustainable, organic fibers and make a high fashion clothing line.
 
 Financially speaking, tequila textiles themselves wouldn't produce enough money to scale up the production. Since the raw materials (agave residuals) are finite, it would be extremely hard to produce huge amounts of fabric. Plus, the incentive to sell the fabric is not correctly placed; big fashion companies will try to get stable production for the lowest price possible. 
@@ -28,7 +30,7 @@ Everything previously mentioned, however, rather than being a problem is an oppo
 
 ## The Execution
 
-<img src="/assets/img/tequila-clothes/logo2.png" alt="kiote-logo" width="250" style="align-self: center" />
+<img src="/assets/img/tequila-clothes/kiote.jpg" alt="kiote-girl" width="300" style="align-self: center" />
 
 The process of turning agave residues into textile fibers is not a trivial one. As a trained physicist and computer science nerd, some of these steps (chemical treatments) laid outside my particular circle of knowledge so I sought people who could do it.
 
