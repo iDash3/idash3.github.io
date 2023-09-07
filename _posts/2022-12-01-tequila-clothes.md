@@ -2,7 +2,7 @@
 
 # Tequila high fashion
 
-One day, while driving back from a charming pueblo in Hidalgo, I came across a tequila  factory. As it was usual for the time of year, they were throwing away the remnants of the agave plants after the production. As any curious person, the question dawned on me, why waste so much? Isn't there a way to do something about it? Someone's trash is another man's treasure, right? Perhaps I stumbled upon mine.
+One day, while driving back from a charming pueblo in Hidalgo, I came across a tequila  factory. As was usual for that time of year, they were throwing away the remnants of the agave plants after the production. Being naturally curious, I found myself wondering, why waste so much? Isn't there a way to do something about it? Someone's trash is another man's treasure, right? Perhaps I stumbled upon mine.
 
 ## The Process
 
@@ -12,7 +12,7 @@ Delving deeper into the process, it's not the entire plant that's utilized, but 
 
 Now let's see this process from the perspective of residues. When cutting the core, half the weight of the plant is thrown away in the form of leaves. Then, after having cooked and smashed the core, this itself is thrown away to rot or inicinarate.
 
-The entire process of spawining tequila into existence implies the creation of ~70% the weight of the plant being trash.
+The entire process of spawning tequila into existence implies the creation of ~70% the weight of the plant being trash.
 
 Now, this is badly enough and inefficient for me but it goes further. The trash is then either incinerated, which pollutes a lot, or thrown into a hole to rot, which pollutes a lot too (while decomposing).
 
@@ -34,6 +34,6 @@ The process of turning agave residues into textile fibers is not a trivial one. 
 
 With the code name Kiote (after the Agave plant's blossoming flower), the project is now on its way. We have a team developing chemical treatments to turn the fibers into useful textiles and another team developing the machinery to scale fiber extraction. 
 
-I have also sought partnerships with people in the industry. As of today, I have established a relationship with one of Monterrey's drink manufacturer, who uses Agave to make a special, extremely interesting, groundbreaking drink with cancer-fighting properties. He provides the necessary residues to make our tests. Also, I have talked with people in the Tequila industry, inquiring about their process and possible willingness to take their trash out for them.
+I have also sought partnerships with people in the industry. As of today, I have established a relationship with one of Monterrey's drink manufacturers, who uses Agave to make a special, extremely interesting, groundbreaking drink with cancer-fighting properties. He provides the necessary residues to make our tests. Also, I have talked with people in the Tequila industry, inquiring about their process and possible willingness to take their trash out for them.
 
 The prospect of a full circle production of tequila, where the remnants are themselves used is as tantalizing as the drink itself. 
