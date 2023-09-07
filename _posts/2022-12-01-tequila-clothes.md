@@ -1,4 +1,4 @@
-#### Follow us on Instagram: [Kiote](https://www.instagram.com/kiote_official/)
+#### Follow us on Instagram! [Kiote](https://www.instagram.com/kiote_official/)
 
 # Tequila high fashion
 
