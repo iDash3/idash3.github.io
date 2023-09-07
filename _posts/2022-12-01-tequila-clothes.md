@@ -1,3 +1,5 @@
+#### Follow us on Instagram: https://www.instagram.com/kiote_official/
+
 # Tequila high fashion
 
 One day, while driving back from a charming pueblo in Hidalgo, I came across a tequila  factory. As it was usual for the time of year, they were throwing away the remnants of the agave plants after the production. As any curious person, the question dawned on me, why waste so much? Isn't there a way to do something about it? Someone's trash is another man's treasure, right? Perhaps I stumbled upon mine.
