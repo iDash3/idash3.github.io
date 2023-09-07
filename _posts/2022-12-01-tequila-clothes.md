@@ -26,6 +26,8 @@ Everything previously mentioned, however, rather than being a problem is an oppo
 
 ## The Execution
 
+![kiote-logo](/assets/img/tequila-clothes/kiote-logo.png)
+
 The process of turning agave residues into textile fibers is not a trivial one. As a trained physicist and computer science nerd, some of these steps (chemical treatments) laid outside my particular circle of knowledge so I sought people who could do it.
 
 With the code name Kiote (after the Agave plant's blossoming flower), the project is now on its way. We have a team developing chemical treatments to turn the fibers into useful textiles and another team developing the machinery to scale fiber extraction. 
