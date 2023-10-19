@@ -16,7 +16,7 @@ All these are achievable with the power of Machine Learning with Graphs. So, let
 
 First off, what exactly is a graph? Simply put, it's a collection of nodes and edges representing certain data.
 
-![graph1](./imgs/graph1.png)
+<img src="/assets/img/graph-ml/graph1.png" alt="kiote-logo" width="300" style="align-self: center" />
 
 For a social network, nodes could represent people and edges their relationships. In chemistry, nodes might be atoms and links the bonds between them. For cuisine, nodes could be ingredients linked based on their flavor profiles (sweet, sour, salty).
 
@@ -26,7 +26,7 @@ The possibilities are endless. In my case, I'm getting this user info:
 - Users they communicate with
 - Specific places they've been to (nightclub vs library) [Note: This feature is not yet in the official release; it's still in testing]
 
-![graph1](./imgs/graph1b.png)
+<img src="/assets/img/graph-ml/graph1b.png" alt="kiote-logo" width="300" style="align-self: center" />
 
 We can leverage this data to predict potential chat partners, new travel destinations, and relevant suggestions.
 
@@ -38,15 +38,15 @@ So, vectors close to each other on the graph are close on the embedding space.
 
 Imagine it as taking a graph:
 
-![graph1](./imgs/graph2.png)
+<img src="/assets/img/graph-ml/graph2.png" alt="kiote-logo" width="300" style="align-self: center" />
 
 And through embedding, we assess the proximity of points to one another (in this case, in 2D):
 
-![graph1](./imgs/graph3.png)
+<img src="/assets/img/graph-ml/graph3.png" alt="kiote-logo" width="300" style="align-self: center" />
 
 There are numerous methods to embed a graph, depending on the features you want to prioritize. A trivial method might be to zero out the entire vector except at the position corresponding to the node.
 
-![graph1](./imgs/graph4.png)
+<img src="/assets/img/graph-ml/graph4.png" alt="kiote-logo" width="300" style="align-self: center" />
 
 However, more sophisticated options exist. A common method involves using Random Walks.
 
@@ -56,14 +56,14 @@ What does "similar" mean exactly? For the embedding space, this is simply the do
 
 If we had a function that takes a node a and outputs the emebedding vector f(a) -> []. Then you could calculate the similarity between two nodes in the embedding space simply as the dot product of f(a) and f(b).
 
-![graph6](./imgs/graph6.png)
+<img src="/assets/img/graph-ml/graph6.png" alt="kiote-logo" width="300" style="align-self: center" />
 
 ### Random Walks
 
 A Random Walk involves starting at a specific node (let's call it node i) and then randomly traversing to other connected nodes.
 
 For a random walk of length 5:
-![graph1](./imgs/graph5.png)
+<img src="/assets/img/graph-ml/graph5.png" alt="kiote-logo" width="300" style="align-self: center" />
 
 This method is valuable because if there's a high probability of a random path existing between two nodes, it's likely they're either close to each other or share multiple paths.
 
