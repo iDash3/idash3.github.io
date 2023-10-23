@@ -77,3 +77,5 @@ Of course, this is a simplified explanation. The underlying math is intricate an
 ## suun!
 
 I'm currently working on optimizing these models for suun users. Expect these features in our next major update!
+
+## This is part 1 of the suun ft. GraphML series. Next part coming soon!
