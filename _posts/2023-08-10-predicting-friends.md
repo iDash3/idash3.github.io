@@ -79,7 +79,7 @@ Of course, this is a simplified explanation. The underlying math is intricate an
 
 This information alone is quite useful! We can see how close users' are (cannot share bc of privacy). 
 
-We can now use this encoded information information to train models and make super interesting predictions. I'll write next part reagarding the actual model implementation.
+We can now use this encoded information information to train models and make super interesting predictions. I'll write next part regarding the actual model implementation.
 
 ## suun!
 
