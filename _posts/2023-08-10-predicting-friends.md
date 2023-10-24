@@ -73,6 +73,8 @@ Alternatively, you can introduce biases. For instance, you might adjust the prob
 
 This biased approach is termed [node2vec](https://arxiv.org/abs/1607.00653).
 
+Of course, this is a simplified explanation. The underlying math is intricate and fascinating.
+
 ### ML
 
 This information alone is quite useful! We can see how close users' are (cannot share bc of privacy). 
@@ -80,8 +82,6 @@ This information alone is quite useful! We can see how close users' are (cannot 
 We can now use this encoded information information to train models and make super interesting predictions. I'll write next part reagarding the actual model implementation.
 
 ### Predicting Friends
-
-Of course, this is a simplified explanation. The underlying math is intricate and fascinating.
 
 ## suun!
 
