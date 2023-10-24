@@ -71,6 +71,10 @@ This method is valuable because if there's a high probability of a random path e
 You can perform just n random k-length walks over a graph for each node, a technique known as Deep Walk.
 Alternatively, you can introduce biases. For instance, you might adjust the probability of returning to the original node or continuing further away from the starting point.
 
+<img src="/assets/img/graph-ml/graph7.png" alt="graph7" width="400" style="align-self: center" />
+
+Low p means high probability of staying. Low q means high probability of going further away.
+
 This biased approach is termed [node2vec](https://arxiv.org/abs/1607.00653).
 
 Of course, this is a simplified explanation. The underlying math is intricate and fascinating.
