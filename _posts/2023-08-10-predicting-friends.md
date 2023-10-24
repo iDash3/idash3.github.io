@@ -63,6 +63,7 @@ If we had a function that takes a node a and outputs the emebedding vector f(a) 
 A Random Walk involves starting at a specific node (let's call it node i) and then randomly traversing to other connected nodes.
 
 For a random walk of length 5:
+
 <img src="/assets/img/graph-ml/graph5.png" alt="kiote-logo" width="400" style="align-self: center" />
 
 This method is valuable because if there's a high probability of a random path existing between two nodes, it's likely they're either close to each other or share multiple paths.
@@ -71,6 +72,14 @@ You can perform just n random k-length walks over a graph for each node, a techn
 Alternatively, you can introduce biases. For instance, you might adjust the probability of returning to the original node or continuing further away from the starting point.
 
 This biased approach is termed [node2vec](https://arxiv.org/abs/1607.00653).
+
+### ML
+
+This information alone is quite useful! We can see how close users' are (cannot share bc of privacy). 
+
+We can now use this encoded information information to train models and make super interesting predictions. I'll write next part reagarding the actual model implementation.
+
+### Predicting Friends
 
 Of course, this is a simplified explanation. The underlying math is intricate and fascinating.
 
